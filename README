@@ -1,0 +1,23 @@
+Instructions
+
+Step1 create react project in bootstrap
+npm i -g create-react-app
+
+this create a react app
+
+step 2 --------------------------------
+
+create-react-app react_graphql
+creates the react app and a folder for graph ql
+
+use package
+
+step 3 launch
+cd react_graphql
+npm start
+
+
+step 4:
+install grpah and the apollo graph client related plumbing
+
+npm i -s graphql apollo-boost react-apollo
